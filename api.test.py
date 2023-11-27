@@ -2,9 +2,6 @@
 #
 # Path: api.test.py
 import requests
-import json
-import cv2
-import numpy as np
 
 def test_api():
   url = "http://0.0.0.0:8888/image"
