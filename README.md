@@ -9,6 +9,7 @@ Python3.10.11
 ## インストール
 ```
 python -m venv .venv
+source .venv/bin/activate
 python -m pip install -r requirements.txt
 ```
 
