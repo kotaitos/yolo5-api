@@ -9,7 +9,7 @@ Python3.10.11
 ## インストール
 ```
 python -m venv .venv
-source .venv/bin/activate
+source .venv/bin/activate（Winの場合：.venv\Scripts\activate.bat）
 python -m pip install -r requirements.txt
 ```
 
